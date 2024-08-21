@@ -1,0 +1,39 @@
+name: Feature Request
+description: Suggest an idea or feature for gymdirectory.co.uk
+labels: [triage, enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request for the [Gym Directory UK](https://gymdirectory.co.uk). Note: this template is only for feature requests. Please use the other issue types of bug fixes or gym submission. Any question please use [Github Discussions](https://github.com/DaveHogan/GymDirectoryUK/discussions).
+  - type: dropdown
+    id: enhancement-type
+    attributes:
+      label: Feature request type
+      options:
+        - Enhance Feature
+        - New Feature
+        - Additional Data
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: Please provide a clear and concise description of what the problem is.
+      placeholder: Describe your problem!
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Describe the solution you'd like
+      description: Please provide a clear and concise description of what you want to happen.
+      placeholder: Describe your request!
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Have you seen this feature anywhere else?
+      description: Please provide links or examples of other implementations, or screenshots or videos of the expected behavior if possible.
+      placeholder: Show us examples!

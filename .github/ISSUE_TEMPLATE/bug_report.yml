@@ -1,0 +1,42 @@
+name: Bug Report
+description: File a bug you've spotted on gymdirectory.co.uk. Either functionality or issues with the data.
+labels: [triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report. Please note that this template is only for bug reports; use [GitHub Discussions](https://github.com/DaveHogan/GymDirectoryUK/Discussions) for any questions.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Please describe the issue briefly. You can upload screenshots or videos to further explain your problem.
+      placeholder: Describe your issue!
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: Please provide a clear and concise description of what you expected to happen.
+      placeholder: Describe the expected behavior!
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Reproduction steps
+      description: How do you trigger this bug? Please walk us through it step by step.
+      value: |
+        1.
+        2.
+        3.
+        ...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log or browser console output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell

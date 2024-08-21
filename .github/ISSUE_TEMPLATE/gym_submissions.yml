@@ -1,0 +1,85 @@
+name: Gym Submissions (multiple gyms / data sets)
+description: Submit information for multiple gyms or data sets. For individual submissions, please use the single gym submission issue type or visit GymDirectory.co.uk
+labels: [triage, bulk-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting information for multiple gyms or a data set. For individual submissions, please use the single gym submission issue type or visit GymDirectory.co.uk Please provide the following details.
+
+  - type: input
+    id: submitter-name
+    attributes:
+      label: Submitter Name
+      description: Enter your name or organization name
+    validations:
+      required: true
+
+  - type: input
+    id: submitter-email
+    attributes:
+      label: Submitter Email
+      description: Enter your email address for contact purposes
+    validations:
+      required: true
+
+  - type: textarea
+    id: data-description
+    attributes:
+      label: Data Set Description
+      description: Briefly describe the data set or the gyms you're submitting
+      placeholder: E.g., "List of 50 gyms in London with equipment details and opening hours"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: submission-format
+    attributes:
+      label: Submission Format
+      description: How are you providing the gym data?
+      options:
+        - CSV file
+        - JSON file
+        - Excel spreadsheet
+        - Link to online document
+        - Other (please specify in comments)
+    validations:
+      required: true
+
+  - type: textarea
+    id: data-fields
+    attributes:
+      label: Data Fields
+      description: List the fields included in your data set
+      placeholder: |
+        - Gym Name
+        - Address
+        - Phone Number
+        - Website
+        - Opening Hours
+        - Equipment List
+        - Facilities
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Provide any additional details or context about your submission
+
+  - type: checkboxes
+    id: permissions
+    attributes:
+      label: Permissions and Data Usage
+      description: Please confirm the following
+      options:
+        - label: I confirm that I have the necessary permissions to submit this data
+          required: true
+        - label: I grant GymDirectory.co.uk free use of this data for their website and related services
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        After submitting this form, please attach your data file or provide the link in a comment on the issue.

@@ -1,0 +1,69 @@
+name: Gym Submission (individual gym)
+description: Submit your gym's information. For best results, please submit your gym via the GymDirectory.co.uk website.
+labels: [triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting your gym information. Please fill out the following details. For best results, please submit your gym via [the GymDirectory.co.uk website](https://gymdirectory.co.uk/gym/add-a-gym-listing)
+
+  - type: input
+    id: gym-name
+    attributes:
+      label: Gym Name
+      description: Enter the name of your gym
+    validations:
+      required: true
+
+  - type: textarea
+    id: social-links
+    attributes:
+      label: Social Links
+      description: Enter your gym's social media links (one per line)
+      placeholder: |
+        https://facebook.com/yourgym
+        https://instagram.com/yourgym
+        https://twitter.com/yourgym
+
+  - type: input
+    id: suitable-sports
+    attributes:
+      label: Suitable for Sports
+      description: List sports the gym is suitable for (e.g., powerlifting, boxing)
+      placeholder: powerlifting, boxing, weightlifting
+
+  - type: textarea
+    id: equipment
+    attributes:
+      label: Equipment Available
+      description: List the equipment available in your gym
+      placeholder: |
+        - Smith machine
+        - Barbells
+        - Squat racks
+
+  - type: textarea
+    id: facilities
+    attributes:
+      label: Gym Facilities
+      description: List the facilities available at your gym
+      placeholder: |
+        - Free parking
+        - WiFi
+        - Showers
+
+  - type: input
+    id: opening-hours
+    attributes:
+      label: Opening Hours
+      description: Provide the gym's opening hours
+      placeholder: Mon-Fri 6am-10pm, Sat-Sun 8am-8pm
+
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permission Confirmation
+      description: Please confirm that you have permission or are the owner of the gym
+      options:
+        - label: I confirm that I have permission or am the owner of the gym to submit this information
+          required: true
