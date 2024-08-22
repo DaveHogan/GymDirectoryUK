@@ -1,4 +1,4 @@
-name: Validate and Bundle Equipment Data Set
+name: Validate and Bundle Gym Equipment Data Set
 
 on:
   push:
@@ -12,8 +12,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
-
+      uses: actions/checkout@v4
 
     - name: Validate markdown files
       run: |
@@ -108,14 +107,16 @@ jobs:
     - name: Create a zip file of markdown files
       run: |
         mkdir -p release
-        zip -r ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip ./data-sets/equipment/*.md
+        cd ./data-sets/equipment
+        zip -r ../../release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip ./*.md
+        cd ../../
 
     - name: Upload zip artifact
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
-        name: equipment_dataset_zip
-        path: ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip
+        name: gym_equipment_dataset
+        path: ./release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip
 
     - name: Create a new release
       if: github.ref == 'refs/heads/main'
@@ -127,4 +128,4 @@ jobs:
         release_name: Release ${{ env.RELEASE_VERSION }}
         draft: false
         prerelease: false
-        files: ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip
+        files: ./release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip
