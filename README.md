@@ -15,3 +15,10 @@ The website code is currently closed source; however, if enough people request i
 Gym Directory is a personal project created by [Dave Hogan](https://davehogan.co.uk), software developer and powerlifter / strongman enthusiast. 
 
 It was born from a passion for fitness and a desire to improve the gym search experience. We're in the early stages of our journey, so please join us as we grow and evolve, and if you can, please help us along the way! If you wish to list a gym that you're associated with or just enjoy, please submit your gym's information.
+
+## Data sets
+Currently we're publishing and accepting contributions on the following data sets:
+
+* [Gym Equipment](./data-sets/equipment/_README.md)
+
+Please raise issue or a discussion if you have request on what we should publish or accept contributions on.
