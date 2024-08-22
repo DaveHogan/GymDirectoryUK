@@ -1,0 +1,130 @@
+name: Validate and Bundle Equipment Data Set
+
+on:
+  push:
+    branches:
+      - main
+      - '**' # Run on any branch, but only create a release on main
+
+jobs:
+  validate-and-bundle:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+
+    - name: Validate markdown files
+      run: |
+        # Ensure all files in the directory are markdown files
+        for file in $(find ./data-sets/equipment -type f); do
+          if [[ "${file}" != *.md ]]; then
+            echo "Error: $file is not a markdown file."
+            exit 1
+          fi
+        done
+
+        # Validate markdown file contents
+        for file in ./data-sets/equipment/*.md; do
+          # Ignore files starting with an underscore
+          if [[ "$(basename "$file")" == _* ]]; then
+            continue
+          fi
+
+          # Check for required headers
+          if ! grep -q "^# Equipment:" "$file"; then
+            echo "Error: $file is missing the '# Equipment:' header."
+            exit 1
+          fi
+          
+          if ! grep -q "^## Description" "$file"; then
+            echo "Error: $file is missing the '## Description' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Equipment Type" "$file"; then
+            echo "Error: $file is missing the '## Equipment Type' header."
+            exit 1
+          fi
+          
+          # Validate the line after '## Equipment Type' header
+          if grep -q "^## Equipment Type" "$file"; then
+            equipment_type_line=$(grep -A 1 "^## Equipment Type" "$file" | tail -n 1)
+            valid_types=("Cardio" "Resistance" "FreeWeight" "Functional" "Accessory")
+            valid=false
+            for type in "${valid_types[@]}"; do
+              if [[ "$equipment_type_line" == *"$type"* ]]; then
+                valid=true
+                break
+              fi
+            done
+            if [ "$valid" = false ]; then
+              echo "Error: $file has an invalid value under '## Equipment Type'. Must be one of: Cardio, Resistance, FreeWeight, Functional, Accessory."
+              exit 1
+            fi
+          fi
+
+          if ! grep -q "^## How To Use" "$file"; then
+            echo "Error: $file is missing the '## How To Use' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Benefits" "$file"; then
+            echo "Error: $file is missing the '## Benefits' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Targeted Muscles" "$file"; then
+            echo "Error: $file is missing the '## Targeted Muscles' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Common Exercises" "$file"; then
+            echo "Error: $file is missing the '## Common Exercises' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Skill Level" "$file"; then
+            echo "Error: $file is missing the '## Skill Level' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Safety Tips" "$file"; then
+            echo "Error: $file is missing the '## Safety Tips' header."
+            exit 1
+          fi
+
+          if ! grep -q "^## Alternatives" "$file"; then
+            echo "Error: $file is missing the '## Alternatives' header."
+            exit 1
+          fi
+        done
+
+    - name: Get the current version
+      id: get_version
+      run: echo "RELEASE_VERSION=$(date +'%Y.%m.%d.%H%M%S')" >> $GITHUB_ENV
+
+    - name: Create a zip file of markdown files
+      run: |
+        mkdir -p release
+        zip -r ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip ./data-sets/equipment/*.md
+
+    - name: Upload zip artifact
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: equipment_dataset_zip
+        path: ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip
+
+    - name: Create a new release
+      if: github.ref == 'refs/heads/main'
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ env.RELEASE_VERSION }}
+        release_name: Release ${{ env.RELEASE_VERSION }}
+        draft: false
+        prerelease: false
+        files: ./release/equipment_dataset_${{ env.RELEASE_VERSION }}.zip
