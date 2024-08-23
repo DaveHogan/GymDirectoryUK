@@ -119,13 +119,24 @@ jobs:
         path: ./release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip
 
     - name: Create a new release
+      id: create_release
       if: github.ref == 'refs/heads/main'
       uses: actions/create-release@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
       with:
         tag_name: v${{ env.RELEASE_VERSION }}
-        release_name: Release ${{ env.RELEASE_VERSION }}
+        release_name: Gym Equipment Dataset ${{ env.RELEASE_VERSION }}
         draft: false
         prerelease: false
-        files: ./release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip
+
+    - name: Upload assets to the release
+      if: github.ref == 'refs/heads/main'
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./release/gym_equipment_dataset_${{ env.RELEASE_VERSION }}.zip
+        asset_name: equipment_files_${{ env.RELEASE_VERSION }}.zip
+        asset_content_type: application/zip
