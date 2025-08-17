@@ -19,7 +19,7 @@ Cardio
 <ul><li>Standard Duck Walk for distance or speed.</li><li>Duck Walk with varying weights or distances for progression.</li><li>Incorporating turns or obstacles to increase difficulty.</li><li>Lifting the duck walk onto platforms or stairs</li></ul>
 
 ## Skill Level
-<ul><li>uitable for various skill levels, but requires good squatting technique and balance.</li><li>Beginners should start with lighter weights and shorter distances.</li></ul>
+<ul><li>Suitable for various skill levels, but requires good squatting technique and balance.</li><li>Beginners should start with lighter weights and shorter distances.</li></ul>
 
 ## Safety Tips
 <ul><li>Ensure a proper grip and lifting technique to prevent back strain.</li><li>Start with lower weights to get used to the movement.</li><li>Focus on maintaining balance and avoid rushing the steps.</li></ul>
