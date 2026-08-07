@@ -22,3 +22,19 @@ Currently we're publishing and accepting contributions on the following data set
 * [Gym Equipment](./data-sets/equipment/_README.md)
 
 Please raise issue or a discussion if you have request on what we should publish or accept contributions on.
+
+## Licence
+
+Everything in this repository is [CC BY 4.0](./LICENSE).
+
+**You may use the data sets for anything, including commercially**, as long as you credit the
+source. Attribution should name Gym Directory UK and link to <https://gymdirectory.co.uk>, for
+example:
+
+> Equipment data from [Gym Directory UK](https://gymdirectory.co.uk), licensed under
+> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+CC BY 4.0 covers sui generis database rights as well as copyright, so it applies to the data set as
+a collection and not only to the wording of individual entries.
+
+Contributions are accepted under the same licence. See [CONTRIBUTING.md](./CONTRIBUTING.md).
