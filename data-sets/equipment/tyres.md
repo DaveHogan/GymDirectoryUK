@@ -7,23 +7,37 @@ Tyres, particularly large tractor or truck tyres, are used in strength and fitne
 Functional
 
 ## How To Use
-<ul><li><strong>Tyre Flips</strong>: Squat down and grip the underside of the tyre. Lift and push it forward in a controlled motion, flipping it over.</li><li><strong>Sledgehammer Hits</strong>: Stand facing the tyre with a sledgehammer. Hit the tyre on alternating sides with controlled swings.</li><li><strong>Jumping Exercises</strong>: Use the tyre as a platform for jumps, stepping up or leaping onto and off the tyre.</li></ul>
+- **Tyre Flips**: Squat down and grip the underside of the tyre. Lift and push it forward in a controlled motion, flipping it over.
+- **Sledgehammer Hits**: Stand facing the tyre with a sledgehammer. Hit the tyre on alternating sides with controlled swings.
+- **Jumping Exercises**: Use the tyre as a platform for jumps, stepping up or leaping onto and off the tyre.
 
 ## Benefits
-<ul><li>Builds functional strength and muscle endurance.</li><li>Enhances cardiovascular fitness, especially during high-intensity workouts.</li><li>Develops explosive power, particularly with flipping and hammer swings.</li><li>Improves coordination and balance.</li></ul>
+- Builds functional strength and muscle endurance.
+- Enhances cardiovascular fitness, especially during high-intensity workouts.
+- Develops explosive power, particularly with flipping and hammer swings.
+- Improves coordination and balance.
 
 ## Targeted Muscles
-<ul><li>Tyre flips engage the legs, core, back, and arms.</li><li>Sledgehammer workouts primarily target the upper body, core, and obliques.</li><li>Jumping exercises focus on the legs and core.</li></ul>
+- Tyre flips engage the legs, core, back, and arms.
+- Sledgehammer workouts primarily target the upper body, core, and obliques.
+- Jumping exercises focus on the legs and core.
 
 ## Common Exercises
-<ul><li>Tyre flips for full-body strength and power.</li><li>Sledgehammer hits for upper body conditioning and core stability.</li><li>Box jumps or step-ups using the tyre for lower body strength and cardio.</li></ul>
+- Tyre flips for full-body strength and power.
+- Sledgehammer hits for upper body conditioning and core stability.
+- Box jumps or step-ups using the tyre for lower body strength and cardio.
 
 ## Skill Level
-<ul><li>Suitable for various skill levels, with different sizes and weights of tyres available.</li><li>Beginners should start with smaller, lighter tyres and focus on form.</li></ul>
+- Suitable for various skill levels, with different sizes and weights of tyres available.
+- Beginners should start with smaller, lighter tyres and focus on form.
 
 ## Safety Tips
-<ul><li>Ensure a firm grip and proper lifting when flipping tyres to avoid back injuries.</li><li>Avoid using biceps to lift the tyre to avoid tears</li><li>When using a sledgehammer, wear gloves and ensure a secure grip.</li><li>Check the surrounding area for enough space and a safe surface, especially when performing jumps.</li></ul>
+- Ensure a firm grip and proper lifting when flipping tyres to avoid back injuries.
+- Avoid using biceps to lift the tyre to avoid tears
+- When using a sledgehammer, wear gloves and ensure a secure grip.
+- Check the surrounding area for enough space and a safe surface, especially when performing jumps.
 
 ## Alternatives
-<ul><li>Sandbags or medicine balls for similar lifting and throwing exercises.</li><li>Plyometric boxes for jump training.</li><li>Barbells or dumbbells for more traditional strength training.</li></ul>
-
+- Sandbags or medicine balls for similar lifting and throwing exercises.
+- Plyometric boxes for jump training.
+- Barbells or dumbbells for more traditional strength training.

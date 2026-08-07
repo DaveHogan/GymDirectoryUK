@@ -7,23 +7,37 @@ Battle ropes are heavy ropes anchored to a point, used for cardio and strength t
 Functional
 
 ## How To Use
-<ul><li>Grip each end of the rope with both hands, standing with your feet shoulder-width apart.</li><li>Initiate waves by rapidly raising and lowering your arms, either alternately or in unison.</li><li>Maintain a stable, half-squat position, engaging your core throughout the exercise.</li><li>Experiment with movements such as slams, circles, and side whips.</li></ul>
+- Grip each end of the rope with both hands, standing with your feet shoulder-width apart.
+- Initiate waves by rapidly raising and lowering your arms, either alternately or in unison.
+- Maintain a stable, half-squat position, engaging your core throughout the exercise.
+- Experiment with movements such as slams, circles, and side whips.
 
 ## Benefits
-<ul><li>Provides a high-intensity, full-body workout, effective for burning calories.</li><li>Enhances cardiovascular endurance and stamina.</li><li>Improves coordination, balance, and grip strength.</li><li>Offers varied exercises to target different muscle groups.</li></ul>
+- Provides a high-intensity, full-body workout, effective for burning calories.
+- Enhances cardiovascular endurance and stamina.
+- Improves coordination, balance, and grip strength.
+- Offers varied exercises to target different muscle groups.
 
 ## Targeted Muscles
-<ul><li>Engages multiple muscle groups: arms, shoulders, chest, back, core, and legs.</li><li>Particularly effective for core and upper body conditioning.</li></ul>
+- Engages multiple muscle groups: arms, shoulders, chest, back, core, and legs.
+- Particularly effective for core and upper body conditioning.
 
 ## Common Exercises
-<ul><li>Wave exercises for arm and shoulder endurance.</li><li>Rope slams for explosive power and cardio.</li><li>In-and-out waves for core and arm strength.</li><li>Jumping jacks with the ropes for a full-body workout.</li></ul>
+- Wave exercises for arm and shoulder endurance.
+- Rope slams for explosive power and cardio.
+- In-and-out waves for core and arm strength.
+- Jumping jacks with the ropes for a full-body workout.
 
 ## Skill Level
-<ul><li>Suitable for all fitness levels, with the ability to adjust intensity.</li><li>Beginners should start with shorter durations and less intensity.</li></ul>
+- Suitable for all fitness levels, with the ability to adjust intensity.
+- Beginners should start with shorter durations and less intensity.
 
 ## Safety Tips
-<ul><li>Ensure the rope is securely anchored before use.</li><li>Start with a lighter rope to master the technique.</li><li>Be aware of potential friction to avoid blisters or rope burns on your hands.</li></ul>
+- Ensure the rope is securely anchored before use.
+- Start with a lighter rope to master the technique.
+- Be aware of potential friction to avoid blisters or rope burns on your hands.
 
 ## Alternatives
-<ul><li>Jump ropes for a more cardio-focused workout.</li><li>Resistance bands for similar upper body movements with different resistance.</li><li>Kettlebell swings for a full-body, dynamic workout.</li></ul>
-
+- Jump ropes for a more cardio-focused workout.
+- Resistance bands for similar upper body movements with different resistance.
+- Kettlebell swings for a full-body, dynamic workout.

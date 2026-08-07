@@ -7,23 +7,39 @@ The Smith Machine is a weight training equipment with a barbell fixed within ste
 Cardio
 
 ## How To Use
-<p>Adjust the barbell to the desired height before loading weights.</p><p>Stand in the machine's centre and grip the barbell with both hands.</p><p>Rotate the barbell to unlatch it, then perform your exercise with controlled movements.</p><p>After completing your set, secure the barbell back in place by rotating it back into the locked position.</p>
+Adjust the barbell to the desired height before loading weights.
+
+Stand in the machine's centre and grip the barbell with both hands.
+
+Rotate the barbell to unlatch it, then perform your exercise with controlled movements.
+
+After completing your set, secure the barbell back in place by rotating it back into the locked position.
 
 ## Benefits
-<ul><li>Offers stability and support, making it safer for heavy lifting.</li><li>Ideal for those new to weightlifting or recovering from injury.</li><li>Allows for a variety of exercises targeting different muscle groups.</li><li>It helps in practising form and technique, especially for compound lifts.</li></ul>
+- Offers stability and support, making it safer for heavy lifting.
+- Ideal for those new to weightlifting or recovering from injury.
+- Allows for a variety of exercises targeting different muscle groups.
+- It helps in practising form and technique, especially for compound lifts.
 
 ## Targeted Muscles
-<ul><li>Adaptable for a wide range of exercises, targeting muscles like the chest, back, legs, and shoulders.</li><li>Particularly effective for squats, bench presses, and overhead presses.</li></ul>
+- Adaptable for a wide range of exercises, targeting muscles like the chest, back, legs, and shoulders.
+- Particularly effective for squats, bench presses, and overhead presses.
 
 ## Common Exercises
-<ul><li>Squats for leg and lower body strength.</li><li>Bench presses for chest and arm development.</li><li>Shoulder presses for upper body strength.</li><li>Deadlifts for back and leg muscles.</li></ul>
+- Squats for leg and lower body strength.
+- Bench presses for chest and arm development.
+- Shoulder presses for upper body strength.
+- Deadlifts for back and leg muscles.
 
 ## Skill Level
-<ul><li>Suitable for all skill levels, from beginners who need extra support to advanced users focusing on heavy lifting.<br></li></ul>
+- Suitable for all skill levels, from beginners who need extra support to advanced users focusing on heavy lifting.
 
 ## Safety Tips
-<ul><li>Always use the safety locks to prevent the barbell from falling.</li><li>Ensure that weights are securely fastened.</li><li>Do not exceed the weight limit of the machine.</li></ul>
+- Always use the safety locks to prevent the barbell from falling.
+- Ensure that weights are securely fastened.
+- Do not exceed the weight limit of the machine.
 
 ## Alternatives
-<ul><li>Free weight barbells for a more challenging and less restricted workout.</li><li>Cable machines for similar exercises with different resistance mechanics.</li><li>Dumbbells for more freedom in movement and targeting stabilizing muscles.</li></ul>
-
+- Free weight barbells for a more challenging and less restricted workout.
+- Cable machines for similar exercises with different resistance mechanics.
+- Dumbbells for more freedom in movement and targeting stabilizing muscles.
