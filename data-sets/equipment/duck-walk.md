@@ -4,7 +4,7 @@
 Duck Walk implement enables the duck walk exercise which involves carrying a weight between the legs while walking, testing balance and lower body strength. It's named after the you waddle you make whilst performing the exercise! This exercise tests lower body strength, balance, and coordination, making it a popular choice in strength and conditioning programs.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Place the Duck Walk weight between your feet.

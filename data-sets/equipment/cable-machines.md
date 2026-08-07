@@ -4,7 +4,7 @@
 Cable Crossover Machines are a staple in most gyms, known for their versatility and functionality. These machines have a weight stack connected to a cable and pulley system, allowing users to perform various exercises. Cable machines are excellent for targeted muscle training, offering constant tension and a unique resistance profile.
 
 ## Equipment Type
-Cardio
+Resistance
 
 ## How To Use
 - Select the appropriate weight from the stack.
@@ -24,7 +24,7 @@ Cardio
 - Specific attachments and positions can isolate particular muscles.
 
 ## Common Exercises
-- Cable chest flyes or press for pectorals.
+- Cable chest fly or press for pectorals.
 - Lat pulldowns for back muscles.
 - Tricep pushdowns for arm development.
 - Cable squats or lunges for leg strength.

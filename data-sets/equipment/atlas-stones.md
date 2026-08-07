@@ -4,7 +4,7 @@
 Atlas Stones are heavy, spherical stones used in strength competitions, typically lifted and placed on a platform or thrown over a Yoke. They are known for testing strength, grip, endurance, and technique. Lifting Atlas Stones requires raw power, balance, and proper form, making them challenging yet rewarding equipment to use.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Squat down and position your arms around the stone, keeping your back straight.

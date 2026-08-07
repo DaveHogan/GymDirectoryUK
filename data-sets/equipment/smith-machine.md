@@ -4,7 +4,7 @@
 The Smith Machine is a weight training equipment with a barbell fixed within steel rails, allowing for vertical or near-vertical movement. It's used for safely performing squats, presses, and other lifts. Smith machines are popular for providing stability and support during weightlifting, making it ideal for both beginners and experienced gym-goers.
 
 ## Equipment Type
-Cardio
+Resistance
 
 ## How To Use
 Adjust the barbell to the desired height before loading weights.

@@ -4,7 +4,7 @@
 Kettlebells are a type of free weight with a unique design: a cast-iron or steel ball with a handle attached to the top. They are renowned for their effectiveness in combining strength, cardiovascular, and flexibility training. Kettlebells are versatile and can be used in various workouts, appealing to a wide range of fitness enthusiasts.
 
 ## Equipment Type
-Cardio
+FreeWeight
 
 ## How To Use
 - Start by selecting a kettlebell of appropriate weight.

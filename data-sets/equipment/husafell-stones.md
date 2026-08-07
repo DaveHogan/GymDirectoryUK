@@ -6,7 +6,7 @@ Husafell Stones are large, flat stones carried in front of the body for distance
 The Husafell Stone is a traditional strongman implement originating from Iceland and often seen in strongman competitions
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Squat down in front of the Husafell Stone and slide your arms underneath it.

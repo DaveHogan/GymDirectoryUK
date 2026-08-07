@@ -4,7 +4,7 @@
 The Leg Press Machine is a popular gym equipment designed for lower body workouts. It allows users to push weight away from their body using their legs. This machine is an excellent tool for building leg strength and muscle, mainly targeting the quadriceps, hamstrings, and glutes.
 
 ## Equipment Type
-Cardio
+Resistance
 
 ## How To Use
 - Sit on the machine and place your feet on the footplate, shoulder-width apart.

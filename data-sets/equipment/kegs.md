@@ -4,7 +4,7 @@
 Kegs, in the context of strength training and strongman competitions, are heavy, cylindrical containers traditionally used for storing and transporting liquids, repurposed as weights. They are often filled with water, sand, or lead shot to vary the weight. Kegs are used for lifting, carrying, and throwing exercises, testing an athlete's strength, grip, and endurance.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Approach the keg and squat down to grip it from the bottom or sides. Or alternatively top and tail, one hand on the bottom and the other at the top in opposing directions.

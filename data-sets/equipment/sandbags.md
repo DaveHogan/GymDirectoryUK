@@ -4,7 +4,7 @@
 Sandbags are a unique and versatile piece of fitness equipment, essentially a heavy bag filled with, you guessed it, sand. They are used for functional training, providing an unorthodox and challenging way to build strength, stability, and endurance. Their shifting weight distribution makes exercises with sandbags dynamic and engaging.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Choose a sandbag with the appropriate weight for your fitness and strength level.

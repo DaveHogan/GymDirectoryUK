@@ -1,10 +1,10 @@
 # Equipment: Yoke
 
 ## Description
-The Yoke is a specialsed piece of strength training equipment primarily used in strongman competitions. It consists of a horizontal bar (the crossbar) set between two vertical bars with weight posts. The athlete places the yoke on their shoulders and walks for a fixed distance, testing strength, stability, and endurance.
+The Yoke is a specialised piece of strength training equipment primarily used in strongman competitions. It consists of a horizontal bar (the crossbar) set between two vertical bars with weight posts. The athlete places the yoke on their shoulders and walks for a fixed distance, testing strength, stability, and endurance.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Adjust the height of the crossbar so it sits comfortably on your shoulders.

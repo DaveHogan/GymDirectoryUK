@@ -4,7 +4,7 @@
 A Sled is a weight-bearing platform dragged or pushed along the ground for strength and conditioning. It has a flat base for loading weights and is equipped with handles or straps. Sled training is excellent for building strength, power, and endurance and is popular in athletic and general fitness routines.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Load the sled with an appropriate amount of weight.

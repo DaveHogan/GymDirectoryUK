@@ -4,7 +4,7 @@
 The Viking Press is a strength apparatus where athletes press a weight overhead from a fixed pivot point. This equipment is designed to test and build upper body strength, mainly focusing on the shoulders, arms, and upper back.
 
 ## Equipment Type
-Cardio
+Functional
 
 ## How To Use
 - Stand in front of the Viking Press with your feet shoulder-width apart.
