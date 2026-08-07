@@ -8,7 +8,7 @@ Equipment data is used for displaying information about the individual piece of 
 
 * **File name:** (without .md extension) is the unique identifier.
 
-* **Formating:** Basic HTML for formatting is supported under each title, but future reviews will use markdown.
+* **Formatting:** Basic HTML for formatting is supported under each title, but future reviews will use markdown.
 
 Please review [_EXAMPLE.md](https://github.com/DaveHogan/GymDirectoryUK/blob/main/data-sets/equipment/_EXAMPLE.md) file for further details or any other existing equipment file.
 
