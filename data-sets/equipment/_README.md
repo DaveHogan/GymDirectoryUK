@@ -8,7 +8,9 @@ Equipment data is used for displaying information about the individual piece of 
 
 * **File name:** (without .md extension) is the unique identifier.
 
-* **Formatting:** Basic HTML for formatting is supported under each title, but future reviews will use markdown.
+* **Formatting:** Markdown. Use `-` for lists, `**bold**` for emphasis. Raw HTML is **not** supported: it is escaped and shown to readers as literal text rather than rendered, so a `<ul>` will appear on the page as `<ul>`.
+
+* **Linking to another entry:** use a relative markdown link to the sibling file, for example `[Prowler](./prowler.md)`. That resolves when browsing this repository, and sites consuming the data set can map it to their own URL for that entry.
 
 Please review [_EXAMPLE.md](https://github.com/DaveHogan/GymDirectoryUK/blob/main/data-sets/equipment/_EXAMPLE.md) file for further details or any other existing equipment file.
 

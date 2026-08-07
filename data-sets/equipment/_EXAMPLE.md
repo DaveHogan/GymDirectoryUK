@@ -1,29 +1,35 @@
 # Equipment: Example Equipment
 
 ## Description
-This is an example equipment
+A short paragraph of prose describing what this equipment is and what it is for. Plain markdown. Raw HTML is escaped and shown as literal text, so do not use it.
 
 ## Equipment Type
 Only one of following: Cardio, Resistance, FreeWeight, Functional, Accessory
 
 ## How To Use
-How to use this equipment. Supports Markdown and HTML
+- One step per bullet, in the order you would actually do them.
+- Markdown only. `-` for bullets, `**bold**` for emphasis.
 
 ## Benefits
-Benefits of using this equipment. Supports Markdown and HTML
+- What this equipment is good for.
+- Keep each point to a single claim.
 
 ## Targeted Muscles
-Muscles targeted by this equipment. Supports Markdown and HTML
+- The muscles doing most of the work.
+- Any secondary muscles worth mentioning.
 
 ## Common Exercises
-Common exercises using this equipment. Supports Markdown and HTML
+- Named exercises people perform with it.
+- A benchmark or standard distance where one exists.
 
 ## Skill Level
-Skill level required to use this equipment. Supports Markdown and HTML
+- Who it suits, and what a beginner should know before using it.
+- Any mobility or technique requirement.
 
 ## Safety Tips
-Safety tips for using this equipment. Supports Markdown and HTML
+- The things that actually cause injuries with this equipment.
+- Setup or surface requirements.
 
 ## Alternatives
-Alternatives to this equipment. Supports Markdown and HTML
-
+- [Another Equipment](./another-equipment.md), and why it substitutes. Link to a sibling file by its file name; the file name is the entry's identifier.
+- A substitute that has no entry of its own can simply be named in text.
