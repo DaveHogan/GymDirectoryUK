@@ -20,6 +20,7 @@ It was born from a passion for fitness and a desire to improve the gym search ex
 Currently we're publishing and accepting contributions on the following data sets:
 
 * [Gym Equipment](./data-sets/equipment/_README.md)
+* [Sports](./data-sets/sports/_README.md)
 
 Please raise issue or a discussion if you have request on what we should publish or accept contributions on.
 
@@ -31,7 +32,7 @@ Everything in this repository is [CC BY 4.0](./LICENSE).
 source. Attribution should name Gym Directory UK and link to <https://gymdirectory.co.uk>, for
 example:
 
-> Equipment data from [Gym Directory UK](https://gymdirectory.co.uk), licensed under
+> Equipment and sports data from [Gym Directory UK](https://gymdirectory.co.uk), licensed under
 > [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 CC BY 4.0 covers sui generis database rights as well as copyright, so it applies to the data set as
